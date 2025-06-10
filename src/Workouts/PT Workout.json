@@ -1,0 +1,171 @@
+{
+  "Title": "PT Workout",
+  "Date_Created": "April-22-2025",
+  "Sections": [
+    {
+      "Type": "Exercise" ,
+      "Name": "Bike",
+      "Time": "6 min"
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Slantboard Stretch",
+      "Sets": 3,
+      "Time": "30 sec"
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Single Leg Stability Throw",
+      "Sets": 3,
+      "Reps": 30
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Single Leg Balance",
+      "Equipment": [
+        "Bosu Ball"
+      ],
+      "Sets": 3,
+      "Time": "30 sec"
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Bosu Squats",
+      "Sets": 3,
+      "Reps": 10,
+      "Equipment": [
+        "Bosu Ball"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Step-Ups",
+      "Sets": 3,
+      "Reps": 10,
+      "Equipment": [
+        "Resistance Band"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Sit-To-Stand",
+      "Sets": 3,
+      "Reps": 10,
+      "Weight": 10,
+      "WeightMeasurement": "lb",
+      "Equipment": [
+        "Kettlebell",
+        "Bench"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Lateral Walks",
+      "Sets": 6,
+      "Distance": 10,
+      "DistanceMeasurement": "yd",
+      "Equipment": [
+        "Resistance Band"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Monster Walks",
+      "Sets": 6,
+      "Distance": 10,
+      "DistanceMeasurement": "yd",
+      "Equipment": [
+      	"Resistance Band"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Romainian Deadlifts",
+      "Sets": 3,
+      "Reps": 10,
+      "Weight": 25,
+      "WeightMeasurement": "lb",
+      "Equipment": [
+      "Kettlebell"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Wall Sits",
+      "Sets": 10,
+      "Time": "10 sec",
+      "Weight": 45,
+      "WeightMeasurement": "lb",
+      "Equipment": [
+        "Dumbbell"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Resisted Leg-Lowering",
+      "Sets": 3,
+      "Reps": 10,
+      "Weight": 15,
+      "WeightMeasurement": "lb",
+      "Equipment": [
+        "Cable"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Leg Press",
+      "Time": "3 min",
+      "Weight": 135,
+      "WeightMeasurement": "lb"
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Single Leg Press",
+      "Time": "2 min",
+      "Weight": 85,
+      "WeightMeasurement": "lb"
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Seated Hamstring Stretch",
+      "Sets": 3,
+      "Time": "30 sec",
+      "Equipment": [
+        "Strap"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Supine Hamstring Stretch",
+      "Sets": 3,
+      "Time": "30 sec",
+      "Equipment": [
+        "Strap"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Supine IT Band Stretch",
+      "Sets": 3,
+      "Time": "30 sec",
+      "Equipment": [
+        "Strap"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Prone Quad Stretch",
+      "Sets": 3,
+      "Time": "30 sec",
+      "Equipment": [
+        "Strap"
+      ]
+    },
+    {
+      "Type": "Exercise" ,
+      "Name": "Sauna",
+      "Time": "30 min"
+    }
+  ],
+  "Note": "late-stage pt workout" 
+}

@@ -1,0 +1,76 @@
+{
+"Log": [
+		{
+		"Date": "2025-5-20",
+		"Sections":[
+			{
+				"Type" : "Exercise",
+				"Name": "Row",
+				"Distance": 1.5,
+				"DistanceMeasurement": "km",
+				"Time": "6:47"
+			},
+			{
+				"Type" : "Exercise",
+				"Name": "Chin ups",
+				"Sets": 2,
+				"Reps": 5,
+				"Note": "Start at top, slowly drop down"
+			},
+			{
+				"Type" : "Exercise",
+				"Name": "Underhanded Pulldowns",
+				"Sets": 3,
+				"Reps": 12,
+				"Weight": 80,
+				"WeightMeasurement":"lb"
+			},
+			{
+				"Type" : "Exercise",
+				"Name": "Rear Delt Flys",
+				"Sets": 3,
+				"Reps": 10,
+				"Weight": 60,
+				"WeightMeasurement": "lb"
+			},
+			{
+				"Type" : "Exercise",
+				"Name": "Barbell Curls",
+				"Sets": 3,
+				"Reps": 10,
+				"Weight": 40,
+				"WeightMeasurement": "lb"
+			},
+			{
+				"Type" : "Exercise",
+				"Name": "T-Bar Rows",
+				"Sets": 3,
+				"Reps": 10,
+				"Weight": 45,
+				"WeightMeasurement": "lb"
+			},
+			{
+				"Type" : "Exercise",
+				"Name": "Back Extensions",
+				"Sets": 3,
+				"Reps": 10,
+				"Note": "High ROM"
+			},
+			{
+				"Type" : "Exercise",
+				"Name": "Cable Curls w/Rope Attachment",
+				"Sets": 3,
+				"Reps": 25,
+				"Weight": 30,
+				"WeightMeasurement": "lb"
+			},
+			{
+				"Type" : "Exercise",
+				"Name": "Sauna",
+				"Time": "25 min"
+			}
+		],
+		"Note": "Rear Deltoids are very sore"
+		}
+	]
+}

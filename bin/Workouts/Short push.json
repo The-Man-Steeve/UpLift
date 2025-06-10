@@ -1,0 +1,93 @@
+{
+	"Title":"Short Push",
+	"Date_Created":"May-13-2025",
+	"Sections":[
+		{
+			"Type": "Exercise" ,
+			"Name":"Burpees",
+			"Sets": 2,
+			"Reps": 10
+		},
+		{
+			"Type": "Exercise" ,
+			"Name":"Pushups",
+			"Sets":4,
+			"Reps":7
+		},
+		{
+			"Type": "Exercise" ,
+			"Name": "Pullovers",
+			"Sets":3,
+			"Reps":10,
+			"Weight":45,
+			"WeightMeasurement":"lb",
+			"Equipment": ["Plate", "Bench"],
+			"Note":"Supine"
+		},
+		{
+			"Type": "Exercise" ,
+			"Name": "Shrugs",
+			"Sets": 3,
+			"Reps": 12,
+			"Weight": 10,
+			"WeightMeasurement": "lb",
+			"Equipment": ["Dumbbells"]
+		},
+		{
+			"Type": "Exercise" ,
+			"Name": "Lateral Raises",
+			"Sets": 3,
+			"Reps": 10,
+			"Weight": 10,
+			"WeightMeasurement": "lb"
+		},
+		{
+			"Type": "Exercise" ,
+			"Name": "Rotater Cuff Exercise",
+			"Sets": 3,
+			"Reps": 10,
+			"Weight": 10,
+			"WeightMeasurement": "lb"
+		},
+		{
+			"Type": "Exercise" ,
+			"Name": "Overhead Press",
+			"Sets": 3,
+			"Reps": 10,
+			"Weight": 65,
+			"WeightMeasurement": "lb"
+		},
+		{
+			"Type": "Exercise" ,
+			"Name": "Incline Bench Press",
+			"Sets": 3,
+			"Reps": 6,
+			"Weight": 115,
+			"WeightMeasurement": "lb"
+		},
+		{
+			"Type": "Exercise" ,
+			"Name": "Chest Flys",
+			"Sets": 3,
+			"Reps": 10,
+			"Weight": 20,
+			"WeightMeasurement": "lb",
+			"Equipment": ["Cables"]
+		},
+		{
+			"Type": "Exercise" ,
+			"Name": "Tricep Pushdowns",
+			"Sets": 3,
+			"Reps": 12,
+			"Weight": 40,
+			"WeightMeasurement": "lb",
+			"Equipment": ["Cables"],
+			"Note": "High ROM"
+		},
+		{
+			"Type": "Exercise" ,
+			"Name": "Sauna",
+			"Time": "20 min"
+	}
+]
+}
